@@ -21,6 +21,8 @@ int main()
 
 	big_one deneme1;
 
+    //merhana
+
 	deneme1.printer();
 
 	big_one deneme2 = deneme1;
