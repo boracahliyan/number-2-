@@ -1,0 +1,3 @@
+C:/Users/Bora/Desktop/ilerigeri/cmake-build-debug/CMakeFiles/ilerigeri.dir
+C:/Users/Bora/Desktop/ilerigeri/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bora/Desktop/ilerigeri/cmake-build-debug/CMakeFiles/rebuild_cache.dir

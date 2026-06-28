@@ -1,0 +1,22 @@
+# ninja log v5
+2	302	8026423279147304	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+7	318	8026422334739810	CMakeFiles/ilerigeri.dir/main.cpp.obj	3e6bea044bdc5a2c
+302	383	8026423279917789	ilerigeri.exe	f1c5c01033a0a7bf
+2	315	8026425933771788	CMakeFiles/ilerigeri.dir/main.cpp.obj	3e6bea044bdc5a2c
+8	316	8026425933771788	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+316	411	8026425934681677	ilerigeri.exe	f1c5c01033a0a7bf
+2	318	8026426124214659	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+318	411	8026426125104462	ilerigeri.exe	f1c5c01033a0a7bf
+2	300	8026426322992886	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+301	384	8026426323797022	ilerigeri.exe	f1c5c01033a0a7bf
+2	302	8026426482828484	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+302	383	8026426483596711	ilerigeri.exe	f1c5c01033a0a7bf
+2	314	8026427162107490	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+315	406	8026427162974617	ilerigeri.exe	f1c5c01033a0a7bf
+2	316	8026448123972770	CMakeFiles/ilerigeri.dir/main.cpp.obj	3e6bea044bdc5a2c
+8	317	8026448123972770	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+317	564	8026448126415681	ilerigeri.exe	f1c5c01033a0a7bf
+2	295	8026448836548770	CMakeFiles/ilerigeri.dir/main.cpp.obj	3e6bea044bdc5a2c
+3	303	8026449955793929	CMakeFiles/ilerigeri.dir/main.cpp.obj	3e6bea044bdc5a2c
+8	305	8026449955825179	CMakeFiles/ilerigeri.dir/cars.cpp.obj	326faecaf4acccae
+305	384	8026449956570157	ilerigeri.exe	f1c5c01033a0a7bf
